@@ -25,7 +25,7 @@ This guide walks you through installing mods for Baldur’s Gate 3 using Script 
 
 1. Download the Script Extender below:
 
-   [**SCRIPT EXTENDER**](https://github.com/CaioAugustus/Baldur-s-Gate-How-To-Mod/raw/refs/heads/main/Norbyte's%20Baldur's%20Gate%203%20Beta%20Script%20Extender-2172-2024April-30-1715333040.7z)
+   [**SCRIPT EXTENDER**](https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip)
 
 3. Place the `DWrite.dll` file into the game's **bin** folder:
 
