@@ -65,7 +65,7 @@ If it fails, manually set the pathways in `Settings -> Preferences, click 'Save'
 
 ## Step 3 - Mods
 
-1. Download the mods from the [**Google Drive**](https://drive.google.com/file/d/1aSUw62ctiNki3l6NlOniYvB2JH924ICH/view?usp=sharing)
+1. Download the mods from the [**Google Drive**](https://drive.google.com/file/d/1oj160J6XpmVyO77Y8ec_VQLaz_o_rEI9/view?usp=sharing)
 
 2. Extract them into the Mod Manager Aplication
 
